@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "877331318099",
+    "firebase_url": "https://level-ward-232918.firebaseio.com",
+    "project_id": "level-ward-232918",
+    "storage_bucket": "level-ward-232918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877331318099:android:72a514b96ff1fa77",
+        "android_client_info": {
+          "package_name": "com.driverapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcvWjHrKvSapzoBu559vniEH4G9hmjA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877331318099-huicqv57cdhg0omktv33cju877v1dsj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
