@@ -10,7 +10,7 @@
   "dependencies": {
     "@babel/runtime": "7.2.0",
     "@mapbox/polyline": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "create-react-context": "0.2.2",
     "ddir": "0.0.1",
     "google-distance": "^1.0.1",
